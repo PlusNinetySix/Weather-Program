@@ -8,7 +8,7 @@ public class WeatherReport
 		int temp=cin.nextInt();
 		if (temp>=90)
 		{
-			System.out.println("That's pretty hot!");
+			System.out.println("That's really hot!");
 		}
 		else if (temp<=32)
 		{
